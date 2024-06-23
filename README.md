@@ -36,9 +36,3 @@ El proyecto realiza lo siguiente:
 - Asegúrate de tener una conexión a Internet para que las imágenes de la API de NASA se carguen correctamente.
 - No se requieren configuraciones adicionales para ejecutar este proyecto.
 
-## Cómo Usar
-
-1. Clona este repositorio en tu máquina local:
-
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-de-tu-repo.git
